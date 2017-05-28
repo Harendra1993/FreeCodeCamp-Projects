@@ -2,7 +2,7 @@
   "name": "recipe_box",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://harendra1993.github.io/Recipe%20Box",
+  "homepage": "https://harendra1993.github.io/Recipe%20Box/build",
   "dependencies": {
     "bootstrap": "^3.3.7",
     "local-storage": "^1.4.2",
