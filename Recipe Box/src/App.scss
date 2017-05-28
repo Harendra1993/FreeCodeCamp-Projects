@@ -1,0 +1,49 @@
+$bgcolor:linear-gradient(to bottom, rgba(0,0,0,0.45) 0%,rgba(0,0,0,0) 100%);
+header{
+  margin: 0;
+	padding: 10px 15px;
+	box-sizing: border-box;
+	background: $bgcolor;
+	margin-bottom: 10px;
+
+	img{
+    margin: 6px 6px;
+    height: 42px;
+    float: right;
+  }
+
+  h1{
+    font-size: 4em;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    color: crimson
+  }
+}
+
+.container-fluid{
+  max-width: 60rem;
+  margin: 2rem auto;
+  background-color: lightgray;
+  padding: 2rem 0.5rem 1rem;
+}
+
+div > button {
+margin: 1rem 0 0 0;
+i {
+  margin-right: 0.25rem;
+}
+}
+
+.float-right {float: right}
+
+.panel{
+  margin-top: 10px;
+}
+
+.modal-header{
+background-color: lightgray;
+
+.close{
+color: black;
+}
+}
